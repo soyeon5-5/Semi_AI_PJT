@@ -16,10 +16,10 @@
 
 ## 구성원 및 역할
 
-- 신기범(팀장) : Deep Learning, OpenCV, FastAPI, Naver CLOVA, HTML, CSS
 - 김민지 : Deep Learning, OpenCV, FastAPI, Naver CLOVA, HTML, CSS
 - 박소연 : Deep Learning, OpenCV, FastAPI, Naver CLOVA, HTML, CSS
 - 손지원 : Deep Learning, OpenCV, FastAPI, Naver CLOVA, HTML, CSS
+- 신기범 : Deep Learning, OpenCV, FastAPI, Naver CLOVA, HTML, CSS
 - 최수민 : Deep Learning, OpenCV, FastAPI, Naver CLOVA, HTML, CSS
 
 
